@@ -23,9 +23,7 @@ y los respaldo con **pruebas automatizadas** (unitarias, de API y end-to-end) in
 
 | Proyecto | Qué demuestra | Stack |
 |---|---|---|
-| 🎫 **ticket-service** *(próximamente)* | Microservicio REST con arquitectura hexagonal, pruebas unitarias y de integración, Docker y CI/CD | Java 17 · Spring Boot · PostgreSQL · JUnit 5 · Mockito · Docker |
-| 📥 **excel-to-mysql-loader** *(próximamente)* | Servicio que valida archivos Excel y los carga en MySQL con transacciones, *rollback* y *logging* | Python · MySQL · pytest |
-
+| 🎫 [**tickets-microservice-devops-aws**](https://github.com/yaquelin2305/tickets-microservice-devops-aws) | Microservicio REST con arquitectura hexagonal, pruebas con JUnit y Mockito, CI/CD con SonarCloud, despliegue en AWS EC2 y dashboard de observabilidad en CloudWatch *(equipo de 2)* | Java 17 · Spring Boot · PostgreSQL · Docker · GitHub Actions · AWS |
 ### 🧪 QA Automation
 
 | Proyecto | Qué demuestra | Stack |
