@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Yaquelin 👋</h1>
-<h3 align="center">Backend Developer & QA Automation · Santiago, Chile 🇨🇱</h3>
+<h3 align="center">QA Automation & Backend · Santiago, Chile 🇨🇱</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yaquelin-rugel-alvarado-67a4a942b"><img src="https://img.shields.io/badge/LinkedIn-Yaquelin_Rugel_Alvarado-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -28,9 +28,10 @@ y los respaldo con **pruebas automatizadas** (unitarias, de API y end-to-end) in
 
 | Proyecto | Qué demuestra | Stack |
 |---|---|---|
+| 🏦 [**selenium-cucumber-parabank**](https://github.com/yaquelin2305/selenium-cucumber-parabank) | 30 escenarios BDD sobre un banco: saldos validados con BigDecimal, valores límite, tabla de decisión, CI con [reporte en vivo](https://yaquelin2305.github.io/selenium-cucumber-parabank/). Encontró 3 defectos y 2 observaciones | Selenium · Java · Cucumber · GitHub Actions |
 | 🎭 [**playwright-e2e-saucedemo**](https://github.com/yaquelin2305/playwright-e2e-saucedemo) | Suite E2E con POM, fixtures, pruebas data-driven, 4 navegadores, accesibilidad y [reporte Allure en vivo](https://yaquelin2305.github.io/playwright-e2e-saucedemo/) | Playwright · TypeScript · axe-core · GitHub Actions |
 | 📋 [**qa-test-design**](https://github.com/yaquelin2305/qa-test-design) | Plan de pruebas, 30 casos con técnicas ISTQB, matriz de trazabilidad y reportes de bugs con evidencia | ISTQB · Gherkin · Jira/Xray (formato) |
-| 🔌 **api-testing-suite** *(próximamente)* | Pruebas de API manuales y automatizadas, validación de esquemas y pruebas de carga | Postman · Newman · RestAssured · k6 |
+
 
 ---
 
